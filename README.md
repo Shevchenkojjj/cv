@@ -3,6 +3,7 @@
 **Melbourne, Australia**
 Phone: +61 426 353 748 | Email: zhao.ling.kai710224528@gmail.com
 LinkedIn: [www.linkedin.com/in/tom-lingkai-zhao/](https://www.linkedin.com/in/tom-lingkai-zhao/)
+GitHub: [github.com/Shevchenkojjj](https://github.com/Shevchenkojjj)
 
 ---
 
@@ -34,7 +35,7 @@ Data/analytics engineer with 6+ years delivering cloud data platforms, lakehouse
 
 ## Professional Experience
 
-### Analytics / Data Engineer — Baby Bunting
+### Analytics / Data Engineer (Contractor) — Baby Bunting
 **Australia | 2026 – Present**
 
 - Implemented a multi-environment Databricks development lifecycle (dev/test/prod) using catalogs and access controls to enable safe parallel development and controlled promotion to production.
