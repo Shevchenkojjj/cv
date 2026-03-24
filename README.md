@@ -9,7 +9,7 @@ GitHub: [github.com/Shevchenkojjj](https://github.com/Shevchenkojjj)
 
 ## Title
 
-**AI Data / Analytics Engineer | Databricks Lakehouse | DataOps (CI/CD) | GenAI BI**
+**AI Data / Analytics Engineer | Databricks Lakehouse | DataOps | GenAI BI**
 
 ---
 
@@ -25,7 +25,7 @@ Data/analytics engineer with 6+ years delivering cloud data platforms, lakehouse
 |---|---|
 | **Databricks & Lakehouse** | Databricks, Delta Lake, Databricks SQL, Unity Catalog, Medallion architecture (Bronze/Silver/Gold) |
 | **Data Engineering** | Python, SQL, Spark/PySpark, dbt, Airflow, ETL/ELT, data modelling |
-| **DataOps/DevOps** | Git, CI/CD, Azure DevOps, Argo CD, Kubernetes, Docker, release management |
+| **DataOps/DevOps** | Git, CI/CD, Azure DevOps, Argo CD, Kubernetes, Docker, Databricks Asset Bundles, release management |
 | **Cloud** | Azure, AWS, GCP (BigQuery, Vertex AI) |
 | **Analytics/BI** | Power BI, Looker, Tableau |
 | **GenAI/ML** | RAG, embeddings, vector search, LangChain, Prophet, hyperopt |
